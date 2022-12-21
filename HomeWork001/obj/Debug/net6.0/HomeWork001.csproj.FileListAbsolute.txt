@@ -1,0 +1,15 @@
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/bin/Debug/net6.0/HomeWork001
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/bin/Debug/net6.0/HomeWork001.deps.json
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/bin/Debug/net6.0/HomeWork001.runtimeconfig.json
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/bin/Debug/net6.0/HomeWork001.dll
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/bin/Debug/net6.0/HomeWork001.pdb
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/obj/Debug/net6.0/HomeWork001.csproj.AssemblyReference.cache
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/obj/Debug/net6.0/HomeWork001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/obj/Debug/net6.0/HomeWork001.AssemblyInfoInputs.cache
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/obj/Debug/net6.0/HomeWork001.AssemblyInfo.cs
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/obj/Debug/net6.0/HomeWork001.csproj.CoreCompileInputs.cache
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/obj/Debug/net6.0/HomeWork001.dll
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/obj/Debug/net6.0/refint/HomeWork001.dll
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/obj/Debug/net6.0/HomeWork001.pdb
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/obj/Debug/net6.0/HomeWork001.genruntimeconfig.cache
+/Users/romanbarbarossa/Desktop/HomeWork001_C#/HomeWork001/obj/Debug/net6.0/ref/HomeWork001.dll
